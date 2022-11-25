@@ -1,0 +1,114 @@
+body{
+    font-family: 'Comic Sans',sans-serif;
+    font-size: 50px;
+    width: 100vw;
+    height: 120vh;
+    background-image: url(https://64.media.tumblr.com/17f518aa8e93857e2a4ab5edcb60e445/4209af267172ecd1-09/s500x750/e1e5d0ee1df5fb194ad40f0c5fb3519fd47fef3b.gifv);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+   
+    .container {
+
+        width: 340px;
+        height: 360px;
+        border-radius: 12px;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+        flex-direction: column;
+        display: flex;
+        background-color:blue;
+        border: 3px solid black;
+        box-shadow: 5px 5px 5px black;
+   }
+
+   #n1 {
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+
+   }
+
+   #n2{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+   }
+
+   #n3 {
+    display: block;
+    margin: auto;
+    margin-top:10px;
+   }
+
+   #n4{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+   }
+
+   .box{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+   }
+
+   .primaruInput{
+    color: #176106;
+    background-color: #ffffff;
+    margin: 5px 2.5px 10px;
+    border: solid 1px black;
+    border-radius: 5px;
+    font-family: 'Comic Sans', sans-serif;
+
+    font-size: 20px;
+    text-align:center;
+   }
+   .button{
+        background: #ffffff;
+        color: #176106;
+        border: none;
+        padding: 10px 10px;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background .3s;
+        border-radius: 5px;
+        margin-top: 28px;
+        box-shadow: 2px 2px 2px black;
+   }
+
+   .page-title {
+    color:#240808;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 50px;
+    position: center
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .calculo {
+    display:block;
+    margin: auto;
+  }
+
+
+  
